@@ -24,16 +24,20 @@ yarn dev
 Demo
 👉 Live demo here
 
-(
+
 
 📁 Project Structure
 
-src/
-├── components/
-│   └── Button.tsx
-├── App.tsx
-├── main.tsx
-├── index.css
+my-react-app/
+├── src/
+│ ├── components/
+│ │ └── Button.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── package.json
+├── README.md
+└── ...
 
 📦 Built With
 - React
