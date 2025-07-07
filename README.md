@@ -39,14 +39,6 @@ my-react-app/
 ├── README.md
 └── ...
 
-src/
-├── components/
-│   └── Button.tsx
-├── App.tsx
-├── main.tsx
-├── index.css
-
-
 📦 Built With
 - React
 - Vite
