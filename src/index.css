@@ -9,6 +9,13 @@ body {
     sans-serif;
 }
 
+button {
+  display: block;
+  margin: 50px auto;
+  padding: 10px 20px;
+	font-size: 20px;
+}
+
 .btn-info {
   background-color: green;
   color: white;
