@@ -22,12 +22,22 @@ yarn dev
 
 
 Demo
-👉 Live demo here:
+👉 Live demo here
 
 https://my-react-app-eight-wine.vercel.app/
 
-
 📁 Project Structure
+
+my-react-app/
+├── src/
+│ ├── components/
+│ │ └── Button.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── package.json
+├── README.md
+└── ...
 
 src/
 ├── components/
